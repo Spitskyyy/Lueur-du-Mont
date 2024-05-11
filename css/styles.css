@@ -1254,7 +1254,7 @@ progress {
   .row-cols-lg-4 > * {
     flex: 0 0 auto;
     width: 25%;
-  }
+  }s
   .row-cols-lg-5 > * {
     flex: 0 0 auto;
     width: 20%;
